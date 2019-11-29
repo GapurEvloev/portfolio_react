@@ -65,27 +65,27 @@ export const writingsData = [
   {
     title: "Learning and Burning Out — Me In-front of Mirror #1",
     publishedOn: "Medium",
-    link: "https://medium.com/@afiur.fahim/learning-and-burn-out-7f188392d56?source=portfolio"
+    link: "https://medium.com/"
   },
   {
     title: "CSS Box Model for Beginner: Unlocking the Magic of CSS",
     publishedOn: "Hacker Noon",
-    link: "https://hackernoon.com/css-box-model-45ecf4ac219e?source=portfolio"
+    link: "https://hackernoon.com/"
   },
   {
     title: "HTML Content Flow: A Learning Journey to Web Development",
     publishedOn: "UX Art",
-    link: "https://medium.com/ux-art/html-content-flow-d94b7c03f98?source=portfolio"
+    link: "https://medium.com/"
   },
   {
     title: "CSS Selectors Explained with Demo: A Learning Journey to Web Development",
     publishedOn: "UX Art",
-    link: "https://medium.com/ux-art/css-selectors-c4ee17b90886?source=portfolio"
+    link: "https://medium.com/"
   },
   {
     title: "Getting Started with CSS — A Learning Journey to Web Development",
     publishedOn: "UX Art",
-    link: "https://medium.com/ux-art/coding-in-css-ed88f5a2d3a9?source=portfolio"
+    link: "https://medium.com/"
   },
   {
     title: "Understanding HTML Block and Inline Elements: A Learning Journey to Web Development",
